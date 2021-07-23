@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bes-chan/static/css/main.04d4244d.chunk.css",
-    "main.js": "/bes-chan/static/js/main.8fc125e8.chunk.js",
-    "main.js.map": "/bes-chan/static/js/main.8fc125e8.chunk.js.map",
+    "main.js": "/bes-chan/static/js/main.817e1a9d.chunk.js",
+    "main.js.map": "/bes-chan/static/js/main.817e1a9d.chunk.js.map",
     "runtime-main.js": "/bes-chan/static/js/runtime-main.4adfbcab.js",
     "runtime-main.js.map": "/bes-chan/static/js/runtime-main.4adfbcab.js.map",
     "static/js/2.8c996613.chunk.js": "/bes-chan/static/js/2.8c996613.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4adfbcab.js",
     "static/js/2.8c996613.chunk.js",
     "static/css/main.04d4244d.chunk.css",
-    "static/js/main.8fc125e8.chunk.js"
+    "static/js/main.817e1a9d.chunk.js"
   ]
 }
