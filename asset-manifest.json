@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bes-chan/static/css/main.04d4244d.chunk.css",
-    "main.js": "/bes-chan/static/js/main.817e1a9d.chunk.js",
-    "main.js.map": "/bes-chan/static/js/main.817e1a9d.chunk.js.map",
+    "main.css": "/bes-chan/static/css/main.d2f416ff.chunk.css",
+    "main.js": "/bes-chan/static/js/main.703efba2.chunk.js",
+    "main.js.map": "/bes-chan/static/js/main.703efba2.chunk.js.map",
     "runtime-main.js": "/bes-chan/static/js/runtime-main.4adfbcab.js",
     "runtime-main.js.map": "/bes-chan/static/js/runtime-main.4adfbcab.js.map",
-    "static/js/2.8c996613.chunk.js": "/bes-chan/static/js/2.8c996613.chunk.js",
-    "static/js/2.8c996613.chunk.js.map": "/bes-chan/static/js/2.8c996613.chunk.js.map",
+    "static/js/2.0ee862d8.chunk.js": "/bes-chan/static/js/2.0ee862d8.chunk.js",
+    "static/js/2.0ee862d8.chunk.js.map": "/bes-chan/static/js/2.0ee862d8.chunk.js.map",
     "static/js/3.67e07eec.chunk.js": "/bes-chan/static/js/3.67e07eec.chunk.js",
     "static/js/3.67e07eec.chunk.js.map": "/bes-chan/static/js/3.67e07eec.chunk.js.map",
     "index.html": "/bes-chan/index.html",
-    "static/css/main.04d4244d.chunk.css.map": "/bes-chan/static/css/main.04d4244d.chunk.css.map",
-    "static/js/2.8c996613.chunk.js.LICENSE.txt": "/bes-chan/static/js/2.8c996613.chunk.js.LICENSE.txt"
+    "static/css/main.d2f416ff.chunk.css.map": "/bes-chan/static/css/main.d2f416ff.chunk.css.map",
+    "static/js/2.0ee862d8.chunk.js.LICENSE.txt": "/bes-chan/static/js/2.0ee862d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4adfbcab.js",
-    "static/js/2.8c996613.chunk.js",
-    "static/css/main.04d4244d.chunk.css",
-    "static/js/main.817e1a9d.chunk.js"
+    "static/js/2.0ee862d8.chunk.js",
+    "static/css/main.d2f416ff.chunk.css",
+    "static/js/main.703efba2.chunk.js"
   ]
 }
