@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bes-chan/static/css/main.e287daf8.chunk.css",
+    "main.css": "/bes-chan/static/css/main.59716dd1.chunk.css",
     "main.js": "/bes-chan/static/js/main.703efba2.chunk.js",
     "main.js.map": "/bes-chan/static/js/main.703efba2.chunk.js.map",
     "runtime-main.js": "/bes-chan/static/js/runtime-main.4adfbcab.js",
@@ -10,13 +10,13 @@
     "static/js/3.67e07eec.chunk.js": "/bes-chan/static/js/3.67e07eec.chunk.js",
     "static/js/3.67e07eec.chunk.js.map": "/bes-chan/static/js/3.67e07eec.chunk.js.map",
     "index.html": "/bes-chan/index.html",
-    "static/css/main.e287daf8.chunk.css.map": "/bes-chan/static/css/main.e287daf8.chunk.css.map",
+    "static/css/main.59716dd1.chunk.css.map": "/bes-chan/static/css/main.59716dd1.chunk.css.map",
     "static/js/2.0ee862d8.chunk.js.LICENSE.txt": "/bes-chan/static/js/2.0ee862d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4adfbcab.js",
     "static/js/2.0ee862d8.chunk.js",
-    "static/css/main.e287daf8.chunk.css",
+    "static/css/main.59716dd1.chunk.css",
     "static/js/main.703efba2.chunk.js"
   ]
 }
